@@ -1,4 +1,2 @@
-leaflet-2
+leaflet-1
 =========
-
-leaflet interactivity

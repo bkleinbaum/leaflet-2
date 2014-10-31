@@ -1,0 +1,48 @@
+body, html {
+  padding: 20px;
+  height: 100%;
+}
+
+#map {
+	height: 100vh;
+	width: 50%;
+	float: left;
+}
+
+#sideBar {
+	height: 100vh;
+	width: 50%;
+	float: right;
+	background: #4683FE;
+	box-sizing: border-box;
+	font-family: sans-serif;
+	color: white;
+}
+
+h1 {
+	font-size: 42px;
+	margin: 0px;
+}
+
+.park{
+
+	background: #7FABC9;
+	padding: 20px ;
+	border-radius: 22px;
+	margin: 20px;
+}
+
+#parkTitle{
+
+	font-weight: bold;
+	font-size: 30px;	
+}
+
+.park.hover{
+	background: #444;
+
+}
+
+.about{
+	left: 22px;
+}
